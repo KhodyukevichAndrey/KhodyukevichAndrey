@@ -1,10 +1,5 @@
 ### Добро пожаловать! Меня зовут Андрей и я Java-разработчик
 
-![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhodyukevichAndrey&theme=github)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhodyukevichAndrey&show_icons=true)
-
-
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
@@ -16,6 +11,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhodyukevichAndrey&theme=github)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhodyukevichAndrey&show_icons=true)
 
 ---
 Со мной можно связаться по:
