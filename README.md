@@ -1,4 +1,5 @@
-### Добро пожаловать! Меня зовут Андрей и я Java-разработчик
+<h1 align="center">Hi there, I'm Andrey</a> 
+<h3 align="center">Java Backend developer</h3>
 
 ### 🛠 &nbsp;Languages and Tools :
 
